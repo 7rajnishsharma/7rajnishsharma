@@ -28,11 +28,18 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7rajnishsharma&show_icons=true&locale=en&layout=compact" alt="7rajnishsharma" /></p>
+<h2 align="center">Github Stats ⚡</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7rajnishsharma&show_icons=true&locale=en" alt="7rajnishsharma" /></p>
+<div align=center>
+  <p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=7rajnishsharma&show_icons=true&locale=en&layout=compact" alt="7rajnishsharma" /></p>
+      <p>&nbsp;<img align="center"  width="40%" src="https://github-readme-stats.vercel.app/api?username=7rajnishsharma&show_icons=true&locale=en" alt="7rajnishsharma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7rajnishsharma&" alt="7rajnishsharma" /></p>
+<p><img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=7rajnishsharma&" alt="7rajnishsharma" /></p>
+<br>
+
+  </div>
+
+
 
 <p align="cente"> <img src="https://komarev.com/ghpvc/?username=7rajnishsharma&label=Profile%20views&color=0e75b6&style=flat" alt="7rajnishsharma" /> </p>
 
