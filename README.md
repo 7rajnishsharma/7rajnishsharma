@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajnish Kumar Sharma</h1>
 <h3 align="center">A passionate web developer</h3>
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=7rajnishsharma&label=Profile%20views&color=0e75b6&style=flat" target="blank" alt="7rajnishsharma"/>
+</div>
 <details >
   <summary>About Me</summary>
   <p>My name is Rajnish Kumar Sharma, and I am a dedicated full stack developer currently in my 3rd year of studying Computer Science at MDU University. Passionate about coding, I specialize in creating robust and user-centric applications that enhance the digital experience. With a strong foundation in both front-end and back-end technologies, I strive to deliver efficient and elegant solutions.</p>
