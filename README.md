@@ -14,7 +14,7 @@
 
 
 
-- 📫 How to reach me **mailto:kumar.rajnish1april@gmail.com**
+- 📫 How to reach me [kumar.rajnish1april@gmail.com](mailto:kumar.rajnish1april@gmail.com)
 <hr>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
