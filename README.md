@@ -3,7 +3,8 @@
       <img src="https://komarev.com/ghpvc/?username=7rajnishsharma&label=Profile%20views&color=0e75b6&style=flat" target="blank" alt="7rajnishsharma"/>
 </div>
 
-![Banner](https://github.com/user-attachments/assets/eb21f335-a92f-4d00-b6c4-c1b55de28d9c)
+![banner](https://github.com/user-attachments/assets/7e163357-79b0-475a-9d72-8b9e17ada8ab)
+
 
 # 👋 Hi, I'm Rajnish Kumar Sharma!  
 **Software Developer | Full Stack Enthusiast**
