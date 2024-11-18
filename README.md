@@ -3,8 +3,13 @@
       <img src="https://komarev.com/ghpvc/?username=7rajnishsharma&label=Profile%20views&color=0e75b6&style=flat" target="blank" alt="7rajnishsharma"/>
 </div>
 
+![Banner](https://github.com/user-attachments/assets/eb21f335-a92f-4d00-b6c4-c1b55de28d9c)
+
 # 👋 Hi, I'm Rajnish Kumar Sharma!  
 **Software Developer | Full Stack Enthusiast**
+
+
+
 
 ## 🚀 About Me  
 - 🎓 A 4th-year BTech CSE student passionate about building **scalable web applications**.  
@@ -65,7 +70,7 @@
 
 <hr>
 
-<h2 align="center">Github Stats ⚡</h2>
+<h2>Github Stats ⚡</h2>
 
 <br>
 <div>
@@ -79,6 +84,7 @@
 </p>
 
   </div>
+
 
   
 
