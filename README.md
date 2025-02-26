@@ -8,6 +8,7 @@
       <h3 align="left">Software Developer | Full Stack Enthusiast</h3>
 </div>
 <br>
+
 ## 🚀 About Me  
 - 🎓 A 4th-year BTech CSE student passionate about building **scalable web applications**.  
 - 🛠️ Skilled in **Frontend, Backend, UI/UX Design**, and **Database Management**.  
